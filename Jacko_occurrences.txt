@@ -1,0 +1,112 @@
+hop: 3
+wgss: 0
+ragey: 0
+green: 2
+24: 13
+green key: 0
+XHome: 0
+psyop: 0
+flitz: 0
+last chances: 0
+Novack: 0
+Novak: 0
+flitzes: 0
+frat flu: 0
+matched: 0
+25: 4
+dining dollars: 0
+DPlanxiety: 0
+gappers: 0
+swipe: 1
+swipes: 0
+situationship: 0
+roster: 0
+26: 2
+Sns: 0
+narp: 0
+narps: 0
+9L: 4
+micro brews: 0
+dirt cowboy: 0
+dds: 1
+23W: 0
+novack's: 0
+SS: 0
+situation-ship: 0
+robo: 1
+matches: 0
+gov: 0
+econ: 0
+fizz: 0
+Upvote: 0
+upvotes: 0
+eduroam: 0
+Aphi: 0
+qss: 0
+orgo: 0
+mass: 0
+collis: 2
+gk: 0
+hus: 0
+match: 1
+chances: 0
+tails: 1
+psilent: 0
+PB: 0
+GK: 0
+DEI: 0
+Darkside: 0
+FOCO: 5
+boloco: 0
+fizzers: 0
+house cup: 0
+3fb: 0
+house system: 0
+housing system: 0
+two room triple: 0
+cup: 1
+layuplist: 0
+Greenkey: 0
+Tuck: 0
+late night: 0
+DWR: 0
+coach: 2
+McNutt: 0
+DFMO: 0
+lib: 0
+faye: 0
+NRO: 0
+pine: 2
+dba: 0
+Baker Berry: 0
+DOC: 3
+id: 0
+XH: 0
+CnT: 0
+woodstock: 0
+ffb: 0
+Pong: 11
+Bema: 6
+Late night: 0
+Moshing: 0
+HPO: 0
+borg: 0
+LLC: 0
+Gappers: 0
+darties: 0
+Layups: 0
+blobby: 0
+fayesment: 0
+1902: 0
+stacks: 0
+masters: 1
+herot: 0
+heorot: 0
+bequest: 0
+pset: 0
+psets: 0
+winter carnival: 0
+Total Count: 71
+Probability of getting the same word more than once: 0.12
+Probability of getting the same word more than twice: 0.07
+Probability of getting the same word more than three times: 0.05
